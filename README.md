@@ -31,7 +31,8 @@ değerlerinin toplamını geriye dönen bir fonkiyon yazınız ve arr1 değeri i
 13- arr3 içindeki elemanlarının id değerlerinin toplamlarını bulan bir reduce fonsiyonu yazınız
 
 her sorunun cevabını console.log ile yazıdırın
-*/```
+*/
+```
 
 
 ## Homework Description
