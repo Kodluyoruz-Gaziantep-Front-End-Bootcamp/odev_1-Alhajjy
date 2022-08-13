@@ -42,4 +42,4 @@ In this homwork I solved exercises in js language.
 
 ## Author
 
-Muhammed Hacci
+*Muhammed Hacci*
